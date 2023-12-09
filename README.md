@@ -1,17 +1,23 @@
+<br>
 <div align="center">
 <h1>AudioFusion</h1>
-Python music editor
+<i>A package that allows to edit your music file however you want with effects like slowed reverb and 8d.</i>
 </div>
 
-<i>A package that allows to edit your music file however you want with effects like slowed reverb and 8d.</i>
+<br><hr><br>
+More effects and method will be added soon<br>
+PR in [github repository](https://github.com/MineisZarox/AudioFusion) beta branch are always welcome.
 
-<h2>Installation:</h2>
+For more immersive usage and possibilities check out [pydub](https://github.com/jiaaro/pydub)<br>
+Working Web application based on this library - [AudioFuser](https://huggingface.co/spaces/zarox/AudioFusion)
+
+## Installation:
 
 ```bash
 >>> python3 -m pip install AudioFusion
 ```
 
-<h2>Usage:</h2>
+## Usage:
 
 ```python
 >>> from AudioFusion import Fusion
@@ -30,18 +36,6 @@ Python music editor
 
 
 ```
-More effects and method will be added soon
-PR in [github repository](https://github.com/MineisZarox/AudioFusion) beta branch are always welcome.
-
-For more immersive usage and possibilities check out [pydub](https://github.com/jiaaro/pydub)
-Working Web application based on this library - [AudioFuser](https://huggingface.co/spaces/zarox/AudioFusion)
-
-## Todo
-
-- Acapella Extractor
-- Karoke Maker
-- Bass Booster
-- Volume Booster
 
 
 <h2>Advanced Usage:</h2>
@@ -79,10 +73,17 @@ Working Web application based on this library - [AudioFuser](https://huggingface
 
 ```
 
+## Todo
+
+\# Acapella Extractor<br>
+\# Karoke Maker<br>
+\# Bass Booster<br>
+\# Volume Booster<br>
+
 
 ## Inspiration & Credits
 
 - Special thanks to [Jiaaro](https://github.com/jiaaro) for pydub. AudioFusion is mainly wrapped around pydub
-- Thanks to [Rohan](https://github.com/dashroshan) for [repository](https://github.com/dashroshan/8d-slow-reverb)
+- Thanks to [Rohan](https://github.com/dashroshan) for his [8d-slow-reverb](https://github.com/dashroshan/8d-slow-reverb) repository
 
 - My Soundscapes of Serenity - [Because](https://t.me/bcuzwhynot)
